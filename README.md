@@ -1,1 +1,1 @@
-este es un cambio en mi rama personal
+este es un cambio en la rama de mi colega
